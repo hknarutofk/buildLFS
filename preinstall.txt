@@ -1,0 +1,17 @@
+wget-1.14-18.el7_6.1.x86_64
+bison-3.0.4-2.el7.x86_64
+bzip2-1.0.6-13.el7.x86_64
+libstdc++-devel-4.8.5-39.el7.x86_64
+glibc-devel-2.17-307.el7.1.x86_64
+gcc-c++-4.8.5-39.el7.x86_64
+mpfr-3.1.1-4.el7.x86_64
+cpp-4.8.5-39.el7.x86_64
+byacc-1.9.20130304-3.el7.x86_64
+libgomp-4.8.5-39.el7.x86_64
+libmpc-1.0.1-3.el7.x86_64
+gcc-4.8.5-39.el7.x86_64
+glibc-headers-2.17-307.el7.1.x86_64
+kernel-headers-3.10.0-1127.19.1.el7.x86_64
+m4-1.4.16-10.el7.x86_64
+
+
